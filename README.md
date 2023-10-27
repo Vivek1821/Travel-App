@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is Travel app created in ReactJS
 Travel app is responsive app created in ReactJS. In Travel App user can see destinations and photoes which is divided in different categories like Luxury,Adventure,Mystery.
 
@@ -11,3 +12,6 @@ Things I learnt->
 Output:-
 ![Hero Section](../../../Pictures/Screenshots/Screenshot%202023-05-14%20200751.png)
 ![cards](../../../Pictures/Screenshots/Screenshot%202023-05-14%20200857.png)
+=======
+# Travel-App
+>>>>>>> origin/main
